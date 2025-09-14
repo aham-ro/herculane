@@ -12,7 +12,7 @@
         "name": "Statue of Hercules",
         "description": "The Statue of Hercules is a monumental sculpture of the Greek hero Hercules.Mounted in 1847, it is the work of German masters Rammelmeyer and Glantz.",
         "pictures": [
-            "images/2/a.jpg"
+            "images/2/a.png"
         ]
     },
     {
@@ -20,7 +20,7 @@
         "name": "The Royal Historical Center",
         "description": "It dates from the royal time (interwar period): Dr. Crăciunescu Villa, Cerna Hotel, The eye spring, The somach spring.",
         "pictures": [
-            "images/3/a.jpg"
+            "images/3/a.png"
         ]
     },
     {
@@ -28,7 +28,7 @@
         "name": "Elisabeth Villa",
         "description": "Empress Elisabeth visited the spa town on several ocasions, and in 1887, she spent six weeks in a villa specially arranged for her (the building needs to be rehabilitated).",
         "pictures": [
-            "images/4/a.jpg"
+            "images/4/a.png"
         ]
     },
     {
@@ -37,7 +37,7 @@
         "period":[1883, 1886],
         "description": "The baths where Franz Joseph, empress Elisabeth, Nicolae Iorga, Mihail Sadoveanu and many other personalities where treated.",
         "pictures": [
-            "images/5/a.jpg"
+            "images/5/a.png"
         ]
     },
     {
@@ -45,7 +45,7 @@
         "name": "The Roman Street",
         "description": "",
         "pictures": [
-            "images/6/a.jpg"
+            "images/6/a.png"
         ]
     }
 ]
