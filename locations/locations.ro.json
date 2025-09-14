@@ -1,6 +1,51 @@
 [
     {
         "id": "1",
-        "name": "Statuia Lui Hercules"
+        "name": "Centrul Istoric Imperial",
+        "description": "Format din clădiri, monumente istorice și muzee, Centrul Istoric Imperial este un loc unic unde poți învăța despre istoria Imperiului.",
+        "pictures": [
+            "images/1/a.jpg"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Statuia lui Hercules",
+        "description": "Statuia lui Hercules este o sculptură monumentală a eroului grec Hercules. Montată în 1847, este lucrarea maeștrilor germani Rammelmeyer și Glantz.",
+        "pictures": [
+            "images/2/a.jpg"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Centrul Istoric Regal",
+        "description": "Datează din perioada regală (interbelică): Vila Dr. Crăciunescu, Hotel Cerna, Izvorul Ochiului, Izvorul Somach.",
+        "pictures": [
+            "images/3/a.jpg"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Vila Elisabeta",
+        "description": "Împărăteasa Elisabeta a vizitat stațiunea de mai multe ori și, în 1887, a petrecut șase săptămâni într-o vilă special amenajată pentru ea (clădirea necesită reabilitare).",
+        "pictures": [
+            "images/4/a.jpg"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Băile Imperiale Austriece",
+        "period":[1883, 1886],
+        "description": "Băile unde au fost tratați Franz Joseph, împărăteasa Elisabeta, Nicolae Iorga, Mihail Sadoveanu și multe alte personalități.",
+        "pictures": [
+            "images/5/a.jpg"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Strada Romană",
+        "description": "",
+        "pictures": [
+            "images/6/a.jpg"
+        ]
     }
 ]
