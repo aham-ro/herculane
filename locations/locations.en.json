@@ -10,31 +10,32 @@
     {
         "id": "2",
         "name": "Statue of Hercules",
-        "description": "The Statue of Hercules is a monumental sculpture of the Greek hero Hercules.Mounted in 1847, it is the work of German masters Rammelmeyer and Glantz."
+        "description": "The Statue of Hercules is a monumental sculpture of the Greek hero Hercules.Mounted in 1847, it is the work of German masters Rammelmeyer and Glantz.",
+        "pictures": []
     },
     {
         "id": "3",
         "name": "The Royal Historical Center",
-        "description": "It dates from the royal time (interwar period): Dr. Crăciunescu Villa, Cerna Hotel, The eye spring, The somach spring."
+        "description": "It dates from the royal time (interwar period): Dr. Crăciunescu Villa, Cerna Hotel, The eye spring, The somach spring.",
+        "pictures": []
     },
     {
         "id": "4",
         "name": "Elisabeth Villa",
-        "description": "Empress Elisabeth visited the spa town on several ocasions, and in 1887, she spent six weeks in a villa specially arranged for her (the building needs to be rehabilitated)."
+        "description": "Empress Elisabeth visited the spa town on several ocasions, and in 1887, she spent six weeks in a villa specially arranged for her (the building needs to be rehabilitated).",
+        "pictures": []
     },
     {
         "id": "5",
         "name": "The Austrian Imperial Baths",
         "period":[1883, 1886],
-        "description": "The baths where Franz Joseph, empress Elisabeth, Nicolae Iorga, Mihail Sadoveanu and many other personalities where treated."
+        "description": "The baths where Franz Joseph, empress Elisabeth, Nicolae Iorga, Mihail Sadoveanu and many other personalities where treated.",
+        "pictures": []
     },
     {
         "id": "6",
         "name": "The Roman Street",
-        "pictures": [
-            "https://i.pravatar.cc/150?img=1",
-            "https://i.pravatar.cc/150?img=3"
-        ],
-        "description": ""
+        "description": "",
+        "pictures": []
     }
 ]
