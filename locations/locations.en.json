@@ -22,7 +22,7 @@
     {
         "id": "5",
         "name": "The Austrian Imperial Baths",
-        "period": "1883-1886",
+        "period":[1883, 1886],
         "description": "The baths where Franz Joseph, empress Elisabeth, Nicolae Iorga, Mihail Sadoveanu and many other personalities where treated."
     },
     {
