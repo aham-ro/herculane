@@ -3,8 +3,9 @@
         "id": "1",
         "name": "Imperial Historical Center",
         "description": "Made of buildings, historical monuments and museums, the Imperial Historical Center is a unique place where you can learn about the history of the Empire.",
+        "cover": 0,
         "pictures": [
-            "images/1/a.jpg"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/a.jpg?raw=true"
         ]
     },
     {
@@ -12,7 +13,7 @@
         "name": "Statue of Hercules",
         "description": "The Statue of Hercules is a monumental sculpture of the Greek hero Hercules.Mounted in 1847, it is the work of German masters Rammelmeyer and Glantz.",
         "pictures": [
-            "images/2/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/2/a.jpg?raw=true"
         ]
     },
     {
@@ -20,7 +21,7 @@
         "name": "The Royal Historical Center",
         "description": "It dates from the royal time (interwar period): Dr. Crăciunescu Villa, Cerna Hotel, The eye spring, The somach spring.",
         "pictures": [
-            "images/3/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/3/a.jpg?raw=true"
         ]
     },
     {
@@ -28,7 +29,7 @@
         "name": "Elisabeth Villa",
         "description": "Empress Elisabeth visited the spa town on several ocasions, and in 1887, she spent six weeks in a villa specially arranged for her (the building needs to be rehabilitated).",
         "pictures": [
-            "images/4/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/4/a.jpg?raw=true"
         ]
     },
     {
@@ -37,7 +38,7 @@
         "period":[1883, 1886],
         "description": "The baths where Franz Joseph, empress Elisabeth, Nicolae Iorga, Mihail Sadoveanu and many other personalities where treated.",
         "pictures": [
-            "images/5/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/5/a.jpg?raw=true"
         ]
     },
     {
@@ -45,7 +46,7 @@
         "name": "The Roman Street",
         "description": "",
         "pictures": [
-            "images/6/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/6/a.jpg?raw=true"
         ]
     },
     {
@@ -53,7 +54,7 @@
         "name": "Museum Point",
         "description": "",
         "pictures": [
-            "images/3/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/7/a.jpg?raw=true"
         ]
     },
     {
@@ -61,7 +62,7 @@
         "name": "Central Park",
         "description": "",
         "pictures": [
-            "images/3/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/8/a.jpg?raw=true"
         ]
     },
     {
@@ -69,7 +70,7 @@
         "name": "The Wellingtonia Gigantea Tree",
         "description": "It is located in the Central Park and it has its origins in California, being one of the few specimens that survived in our country, planted during the time of Emperor Franz Joseph.",
         "pictures": [
-            "images/3/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/9/a.jpg?raw=true"
         ]
     },
     {
@@ -77,7 +78,7 @@
         "name": "The Railway Station",
         "description": "",
         "pictures": [
-            "images/3/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/10/a.jpg?raw=true"
         ]
     },
     {
@@ -85,7 +86,7 @@
         "name": "The Thieves Cave",
         "description": "",
         "pictures": [
-            "images/3/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/11/a.jpg?raw=true"
         ]
     },
     {
@@ -93,7 +94,7 @@
         "name": "Vicol Park",
         "description": "",
         "pictures": [
-            "images/3/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/12/a.jpg?raw=true"
         ]
     },
     {
@@ -101,7 +102,7 @@
         "name": "The Public Springs",
         "description": "",
         "pictures": [
-            "images/3/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/13/a.jpg?raw=true"
         ]
     },
     {
@@ -109,7 +110,7 @@
         "name": "National Park Cerna Valley",
         "description": "",
         "pictures": [
-            "images/3/a.png"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/14/a.jpg?raw=true"
         ]
     }
 ]
