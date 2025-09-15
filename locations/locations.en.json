@@ -5,7 +5,9 @@
         "description": "Made of buildings, historical monuments and museums, the Imperial Historical Center is a unique place where you can learn about the history of the Empire.",
         "cover": 0,
         "pictures": [
-            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/a.jpg?raw=true"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/a.jpg?raw=true",
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/b.jpg?raw=true",
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/c.jpg?raw=true"
         ]
     },
     {
