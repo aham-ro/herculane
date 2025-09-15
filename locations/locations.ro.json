@@ -4,7 +4,9 @@
         "name": "Centrul Istoric Imperial",
         "description": "Format din clădiri, monumente istorice și muzee, Centrul Istoric Imperial este un loc unic unde poți învăța despre istoria Imperiului.",
         "pictures": [
-            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/a.jpg?raw=true"
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/a.jpg?raw=true",
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/b.png?raw=true",
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/c.png?raw=true"
         ]
     },
     {
