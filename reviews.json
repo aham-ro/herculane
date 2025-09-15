@@ -5,7 +5,7 @@
             "id": "1",
             "given_name": "John",
             "avatar": "https://i.pravatar.cc/150?img=1",
-            "country": "RO"
+            "countryCode": "EN"
         },
         "text": "The baths where Franz Joseph, empress Elisabeth, Nicolae Iorga, Mihail Sadoveanu and many other personalities where treated.",
         "rating": 5,
@@ -20,9 +20,9 @@
             "id": "1",
             "given_name": "John",
             "avatar": "https://i.pravatar.cc/150?img=3",
-            "country": "RO"
+            "countryCode": "RO"
         },
-        "text": "The baths where Franz Joseph, empress Elisabeth, Nicolae Iorga, Mihail Sadoveanu and many other personalities where treated.",
+        "text": "The statue of Hercules is a monumental sculpture of the Greek hero Hercules.Mounted in 1847, it is the work of German masters Rammelmeyer and Glantz.",
         "rating": 5,
         "pictures": [
             "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/b.png?raw=true"
