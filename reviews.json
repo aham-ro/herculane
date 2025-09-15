@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "author": {
+            "id": "1",
+            "given_name": "John",
+            "avatar": "https://i.pravatar.cc/150?img=1",
+            "country": "RO"
+        },
+        "text": "The baths where Franz Joseph, empress Elisabeth, Nicolae Iorga, Mihail Sadoveanu and many other personalities where treated.",
+        "rating": 5,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/reviews/images/1/a.jpg?raw=true"
+        ],
+        "date": "2022-01-01T00:00:00.000Z"
+    },
+    {
+        "id": "2",
+        "author": {
+            "id": "1",
+            "given_name": "John",
+            "avatar": "https://i.pravatar.cc/150?img=3",
+            "country": "RO"
+        },
+        "text": "The baths where Franz Joseph, empress Elisabeth, Nicolae Iorga, Mihail Sadoveanu and many other personalities where treated.",
+        "rating": 5,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/reviews/images/1/b.jpg?raw=true"
+        ],
+        "date": "2022-01-01T00:00:00.000Z"
+    }
+]
