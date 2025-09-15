@@ -47,5 +47,69 @@
         "pictures": [
             "images/6/a.png"
         ]
+    },
+    {
+        "id": "7",
+        "name": "Museum Point",
+        "description": "",
+        "pictures": [
+            "images/3/a.png"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Central Park",
+        "description": "",
+        "pictures": [
+            "images/3/a.png"
+        ]
+    },
+    {
+        "id": "9",
+        "name": "The Wellingtonia Gigantea Tree",
+        "description": "It is located in the Central Park and it has its origins in California, being one of the few specimens that survived in our country, planted during the time of Emperor Franz Joseph.",
+        "pictures": [
+            "images/3/a.png"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "The Railway Station",
+        "description": "",
+        "pictures": [
+            "images/3/a.png"
+        ]
+    },
+    {
+        "id": "11",
+        "name": "The Thieves Cave",
+        "description": "",
+        "pictures": [
+            "images/3/a.png"
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Vicol Park",
+        "description": "",
+        "pictures": [
+            "images/3/a.png"
+        ]
+    },
+    {
+        "id": "13",
+        "name": "The Public Springs",
+        "description": "",
+        "pictures": [
+            "images/3/a.png"
+        ]
+    },
+    {
+        "id": "14",
+        "name": "National Park Cerna Valley",
+        "description": "",
+        "pictures": [
+            "images/3/a.png"
+        ]
     }
 ]
