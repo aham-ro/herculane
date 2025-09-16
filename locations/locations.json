@@ -1,0 +1,215 @@
+[
+    {
+        "id": "1",
+        "name": {
+            "en": "Imperial Historical Center",
+            "ro": "Centru Istoric Imperial"
+        },
+        "description": {
+            "en": "The Imperial Historical Center is a unique place where you can learn about the history of the Empire.",
+            "ro": "Centrul Istoric Imperial este un loc unic unde poți afla despre istoria Imperiului."
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/a.jpg?raw=true",
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/b.png?raw=true",
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/1/c.png?raw=true"
+        ]
+    },
+    {
+        "id": "2",
+        "name": {
+            "en": "Statue of Hercules",
+            "ro": "Statuia lui Hercule"
+        },
+        "description": {
+            "en": "The Statue of Hercules is a monumental sculpture of the Greek hero Hercules. Mounted in 1847, it is the work of German masters Rammelmeyer and Glantz.",
+            "ro": "Statuia lui Hercule este o sculptură monumentală a eroului grec Hercule. Ridicată în 1847, este opera maeștrilor germani Rammelmeyer și Glantz."
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/2/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "3",
+        "name": {
+            "en": "The Royal Historical Center",
+            "ro": "Centrul Istoric Regal"
+        },
+        "description": {
+            "en": "It dates from the royal time (interwar period): Dr. Crăciunescu Villa, Cerna Hotel, The eye spring, The somach spring.",
+            "ro": "Datează din perioada regală (perioada interbelică): Vila Dr. Crăciunescu, Hotelul Cerna, Izvorul Ochiului, Izvorul Stomacului."
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/3/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "4",
+        "name": {
+            "en": "Elisabeth Villa",
+            "ro": "Vila Elisabeta"
+        },
+        "description": {
+            "en": "Empress Elisabeth visited the spa town on several occasions, and in 1887, she spent six weeks in a villa specially arranged for her (the building needs to be rehabilitated).",
+            "ro": "Împărăteasa Elisabeta a vizitat stațiunea de mai multe ori, iar în 1887 a petrecut șase săptămâni într-o vilă special amenajată pentru ea (clădirea are nevoie de reabilitare)."
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/4/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "5",
+        "name": {
+            "en": "The Austrian Imperial Baths",
+            "ro": "Băile Imperiale Austriece"
+        },
+        "period": [1883, 1886],
+        "description": {
+            "en": "The baths where Franz Joseph, Empress Elisabeth, Nicolae Iorga, Mihail Sadoveanu and many other personalities were treated.",
+            "ro": "Băile unde au fost tratați Franz Joseph, împărăteasa Elisabeta, Nicolae Iorga, Mihail Sadoveanu și multe alte personalități."
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/5/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "6",
+        "name": {
+            "en": "The Roman Street",
+            "ro": "Strada Romană"
+        },
+        "description": {
+            "en": "",
+            "ro": ""
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/6/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "7",
+        "name": {
+            "en": "Museum Point",
+            "ro": "Punct Muzeal"
+        },
+        "description": {
+            "en": "",
+            "ro": ""
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/7/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "8",
+        "name": {
+            "en": "Central Park",
+            "ro": "Parcul Central"
+        },
+        "description": {
+            "en": "",
+            "ro": ""
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/8/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "9",
+        "name": {
+            "en": "The Wellingtonia Gigantea Tree",
+            "ro": "Arborele Wellingtonia Gigantea"
+        },
+        "description": {
+            "en": "It is located in the Central Park and it has its origins in California, being one of the few specimens that survived in our country, planted during the time of Emperor Franz Joseph.",
+            "ro": "Se află în Parcul Central și își are originile în California, fiind unul dintre puținele exemplare care au supraviețuit în țara noastră, plantat în timpul împăratului Franz Joseph."
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/9/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "10",
+        "name": {
+            "en": "The Railway Station",
+            "ro": "Gara"
+        },
+        "description": {
+            "en": "",
+            "ro": ""
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/10/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "11",
+        "name": {
+            "en": "The Thieves Cave",
+            "ro": "Peștera Hoților"
+        },
+        "description": {
+            "en": "",
+            "ro": ""
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/11/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "12",
+        "name": {
+            "en": "Vicol Park",
+            "ro": "Parcul Vicol"
+        },
+        "description": {
+            "en": "",
+            "ro": ""
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/12/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "13",
+        "name": {
+            "en": "The Public Springs",
+            "ro": "Izvoarele Publice"
+        },
+        "description": {
+            "en": "",
+            "ro": ""
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/13/a.png?raw=true"
+        ]
+    },
+    {
+        "id": "14",
+        "name": {
+            "en": "National Park Cerna Valley",
+            "ro": "Parcul Național Valea Cernei"
+        },
+        "description": {
+            "en": "",
+            "ro": ""
+        },
+        "cover": 0,
+        "pictures": [
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/locations/images/14/a.png?raw=true"
+        ]
+    }
+]
