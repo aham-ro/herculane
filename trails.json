@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "en_US": "The Wild Boar",
+      "en_GB": "The Wild Boar",
+      "es_ES": "El Jabalí Salvaje",
+      "fr_FR": "Le Sanglier Sauvage",
+      "nl_NL": "De Wilde Bok",
+      "de_DE": "Der Wilde Eber",
+      "ro_RO": "Mistrețul Sălbatic",
+      "it_IT": "Il Cinghiale Selvaggio",
+      "ru_RU": "Дикий Кабан"
+    },
+    "location": {
+      "en_US": "Cerna Valley National Park",
+      "en_GB": "Cerna Valley National Park",
+      "es_ES": "Parque Nacional del Valle de Cerna",
+      "fr_FR": "Parc National de la Vallée de Cerna",
+      "nl_NL": "Nationaal Park Cerna Vallei",
+      "de_DE": "Nationalpark Cerna-Tal",
+      "ro_RO": "Parcul Național Valea Cernei",
+      "it_IT": "Parco Nazionale Valle del Cerna",
+      "ru_RU": "Национальный Парк Долина Черны"
+    },
+    "coordinates": [44.88841, 22.42299],
+    "duration": "5h",
+    "difficulty": 3,
+    "elevation": 100,
+    "description": {
+      "en_US": "The Wild Boar is a mountain trail located in the Cerna Valley National Park. It is 5 km long and has a height difference of 200 meters. The elevation gain is 100 meters, and the elevation loss is 50 meters.",
+      "en_GB": "The Wild Boar is a mountain trail located in the Cerna Valley National Park. It is 5 km long and has a height difference of 200 meters. The elevation gain is 100 meters, and the elevation loss is 50 meters.",
+      "es_ES": "El Jabalí Salvaje es un sendero de montaña ubicado en el Parque Nacional del Valle de Cerna. Tiene una longitud de 5 km y una diferencia de altura de 200 metros. La ganancia de elevación es de 100 metros y la pérdida de elevación es de 50 metros.",
+      "fr_FR": "Le Sanglier Sauvage est un sentier de montagne situé dans le Parc National de la Vallée de Cerna. Il a une longueur de 5 km et une différence de hauteur de 200 mètres. Le gain d'élévation est de 100 mètres et la perte d'élévation est de 50 mètres.",
+      "nl_NL": "De Wilde Bok is een bergpad dat is gelegen in het Nationale Park Cerna Vallei. Het pad is 5 km lang en heeft een hoogteverschil van 200 meter. De hoogtegewinst is 100 meter en de hoogteverlies is 50 meter.",
+      "de_DE": "Der wilde Eber ist ein Bergpfad, das im Nationalpark Cerna-Tal liegt. Das Pfad ist 5 km lang und hat einen Höhenunterschied von 200 Metern. Der Höhengewinn ist 100 Meter und der Höhenverlust ist 50 Meter.",
+      "ro_RO": "Mistrețul Sălbatic este un traseu de munte situat în Parcul Național Valea Cernei. Are o lungime de 5 km și o diferență de altitudine de 200 metri. Creșterea de altitudine este de 100 metri și pierderea de altitudine este de 50 metri.",
+      "it_IT": "Il Cinghiale Selvaggio è un sentiero di montagna situato nel Parco Nazionale Valle del Cerna. È lungo 5 km e ha una differenza di quota di 200 metri. Il guadagno di quota è di 100 metri e la perdita di quota è di 50 metri.",
+      "ru_RU": "Дикий Кабан — это горный троп, расположенный в Национальном Парке Долина Черны. Троп имеет длину 5 км и разницу в высоте 200 метров. Прирост высоты составляет 100 метров, а потеря высоты — 50 метров."
+    },
+    "cover": 0,
+    "pictures": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1",
+        "name": "Store A",
+        "description": "",
+        "phone": "",
+        "schedule": [
+            { "day": "Monday-Saturday", "open": "10:00", "close": "22:00" }
+        ],
+        "cover":0,
+        "pictures":[
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/1/a.png?raw=true"
+        ],
+        "coordinates":[
+            41.403,
+            2.174
+        ]
+    }
+]

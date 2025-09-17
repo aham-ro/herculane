@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "name": "",
+        "description": "",
+        "phone": "",
+        "cover":0,
+        "pictures":[
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/1/a.png?raw=true"
+        ],
+        "coordinates":[
+            41.403,
+            2.174
+        ],
+        "menu": [
+            {
+                "id": "1",
+                "name": "",
+                "description": "",
+                "price": 0
+            }
+        ]
+    }
+]

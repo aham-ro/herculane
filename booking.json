@@ -1,0 +1,29 @@
+[
+    {
+        "id":"",
+        "name":"",
+        "description":"",
+        "stars":3,
+        "phone":"",
+        "coordinates":[
+            41.403,
+            2.174
+        ],
+        "cover":0,
+        "pictures":[
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/1/a.png?raw=true"
+        ],
+        "rooms": [
+            {
+                "id":"",
+                "name":"",
+                "description":"",
+                "price": 0,
+                "cover":0,
+                "pictures":[
+                    "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/1/a.png?raw=true"
+                ]
+            }
+        ]
+    }
+]

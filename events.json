@@ -1,0 +1,18 @@
+[
+    {
+        "id":"1",
+        "title": "Event 1",
+        "description": "",
+        "date": "2022-01-01T00:00:00.000Z",
+        "duration": 60,
+        "price": 0,
+        "cover": 0,
+        "pictures":[
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/1/a.png?raw=true"
+        ],
+        "coordinates":[
+            41.403,
+            2.174
+        ]
+    }
+]
