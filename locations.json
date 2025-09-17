@@ -23,10 +23,7 @@
       "it_IT": "Il Centro Storico Imperiale è un luogo unico dove puoi conoscere la storia dell'Impero.",
       "ru_RU": "Императорский Исторический Центр — это уникальное место, где можно узнать об истории Империи."
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [44.88841, 22.42299],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/1/a.jpg?raw=true",
@@ -58,10 +55,10 @@
       "it_IT": "La Statua di Ercole è una scultura monumentale dell'eroe greco Ercole. Eretta nel 1847, è opera dei maestri tedeschi Rammelmeyer e Glantz.",
       "ru_RU": "Статуя Геркулеса — монументальная скульптура греческого героя Геркулеса. Установлена в 1847 году, создана немецкими мастерами Раммельмейером и Гланцем."
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/2/a.png?raw=true"
@@ -91,10 +88,10 @@
       "it_IT": "Risalente all'epoca reale (periodo tra le due guerre): Villa Dr. Crăciunescu, Hotel Cerna, Sorgente dell'Occhio, Sorgente dello Stomaco.",
       "ru_RU": "Относится к королевскому времени (межвоенный период): Вилла д-ра Крăчунеску, Отель Черна, Источник Глаза, Источник Желудка."
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/3/a.png?raw=true"
@@ -124,10 +121,10 @@
       "it_IT": "L'imperatrice Elisabetta visitò la città termale in diverse occasioni e nel 1887 trascorse sei settimane in una villa appositamente preparata per lei (l'edificio necessita di restauro).",
       "ru_RU": "Императрица Елизавета несколько раз посещала курортный город, и в 1887 году она провела шесть недель в специально подготовленной для неё вилле (здание нуждается в реставрации)."
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/4/a.png?raw=true"
@@ -157,10 +154,10 @@
       "it_IT": "Le terme dove furono curati Francesco Giuseppe, l'imperatrice Elisabetta, Nicolae Iorga, Mihail Sadoveanu e molte altre personalità.",
       "ru_RU": "Купальни, где лечились Франц Иосиф, Императрица Елизавета, Николае Йорга, Михай Садовяну и многие другие личности."
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/5/a.png?raw=true"
@@ -190,10 +187,10 @@
       "it_IT": "Le terme dove furono curati Francesco Giuseppe, l'imperatrice Elisabetta, Nicolae Iorga, Mihail Sadoveanu e molte altre personalità.",
       "ru_RU": "Купальни, где лечились Франц Иосиф, Императрица Елизавета, Николае Йорга, Михай Садовяну и многие другие личности."
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/5/a.png?raw=true"
@@ -223,10 +220,10 @@
       "it_IT": "",
       "ru_RU": ""
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/6/a.png?raw=true"
@@ -256,10 +253,10 @@
       "it_IT": "",
       "ru_RU": ""
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/7/a.png?raw=true"
@@ -289,10 +286,10 @@
       "it_IT": "",
       "ru_RU": ""
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/8/a.png?raw=true"
@@ -322,10 +319,10 @@
       "it_IT": "Si trova nel Parco Centrale ed è originario della California, essendo uno dei pochi esemplari sopravvissuti nel nostro paese, piantato all'epoca dell'imperatore Francesco Giuseppe.",
       "ru_RU": "Он находится в Центральном парке и имеет происхождение из Калифорнии. Это один из немногих экземпляров, выживших в нашей стране, посаженный во времена императора Франца Иосифа."
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/9/a.png?raw=true"
@@ -355,10 +352,10 @@
       "it_IT": "",
       "ru_RU": ""
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/10/a.png?raw=true"
@@ -388,10 +385,10 @@
       "it_IT": "",
       "ru_RU": ""
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/11/a.png?raw=true"
@@ -421,10 +418,10 @@
       "it_IT": "",
       "ru_RU": ""
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/12/a.png?raw=true"
@@ -454,10 +451,10 @@
       "it_IT": "",
       "ru_RU": ""
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/13/a.png?raw=true"
@@ -487,10 +484,10 @@
       "it_IT": "",
       "ru_RU": ""
     },
-    "coordinates": {
-      "latitude": 41.9,
-      "longitude": 12.5
-    },
+    "coordinates": [
+      41.403,
+      2.174
+    ],
     "cover": 0,
     "pictures": [
       "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/14/a.png?raw=true"
