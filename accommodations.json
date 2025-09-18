@@ -65,5 +65,72 @@
                 ]
             }
         ]
+    },
+    {
+        "id":"",
+        "name":{
+            "en_US":"Golopența",
+            "en_GB":"Golopența",
+            "es_ES":"Golopența",
+            "fr_FR":"Golopența",
+            "nl_NL":"Golopența",
+            "de_DE":"Golopența",
+            "ro_RO":"Golopența",
+            "it_IT":"Golopența",
+            "ru_RU":"Golopența"
+        },
+        "description":{
+            "en_US":"Golopența",
+            "en_GB":"Golopența",
+            "es_ES":"Golopența",
+            "fr_FR":"Golopența",
+            "nl_NL":"Golopența",
+            "de_DE":"Golopența",
+            "ro_RO":"Golopența",
+            "it_IT":"Golopența",
+            "ru_RU":"Golopența"
+        },
+        "stars":3,
+        "phone":"",
+        "coordinates":[
+            41.403,
+            2.174
+        ],
+        "cover":0,
+        "pictures":[
+            "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/1/a.png?raw=true"
+        ],
+        "rooms": [
+            {
+                "id":"",
+                "name":{
+                    "en_US":"Golopența Room 1",
+                    "en_GB":"Golopența Room 1",
+                    "es_ES":"Golopența Room 1",
+                    "fr_FR":"Golopența Room 1",
+                    "nl_NL":"Golopența Room 1",
+                    "de_DE":"Golopența Room 1",
+                    "ro_RO":"Golopența Room 1",
+                    "it_IT":"Golopența Room 1",
+                    "ru_RU":"Golopența Room 1"
+                },
+                "description":{
+                    "en_US":"Golopența Room 1",
+                    "en_GB":"Golopența Room 1",
+                    "es_ES":"Golopența Room 1",
+                    "fr_FR":"Golopența Room 1",
+                    "nl_NL":"Golopența Room 1",
+                    "de_DE":"Golopența Room 1",
+                    "ro_RO":"Golopența Room 1",
+                    "it_IT":"Golopența Room 1",
+                    "ru_RU":"Golopența Room 1"
+                },
+                "price": 0,
+                "cover":0,
+                "pictures":[
+                    "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/1/a.png?raw=true"
+                ]
+            }
+        ]
     }
 ]
