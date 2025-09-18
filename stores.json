@@ -1,8 +1,28 @@
 [
     {
         "id": "1",
-        "name": "Store A",
-        "description": "",
+        "name": {
+            "en_US": "Imperial Historical Center",
+            "en_GB": "Imperial Historical Centre",
+            "es_ES": "Centro Histórico Imperial",
+            "fr_FR": "Centre Historique Impérial",
+            "nl_NL": "Imperiaal Historisch Centrum",
+            "de_DE": "Kaiserliches Historisches Zentrum",
+            "ro_RO": "Centru Istoric Imperial",
+            "it_IT": "Centro Storico Imperiale",
+            "ru_RU": "Императорский Исторический Центр"
+        },
+        "description": {
+            "en_US": "",
+            "en_GB": "",
+            "es_ES": "",
+            "fr_FR": "",
+            "nl_NL": "",
+            "de_DE": "",
+            "ro_RO": "",
+            "it_IT": "",
+            "ru_RU": ""
+        },
         "phone": "",
         "schedule": [
             { "day": "Monday-Saturday", "open": "10:00", "close": "22:00" }

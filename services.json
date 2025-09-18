@@ -1,8 +1,28 @@
 [
     {
         "id":"1",
-        "name": "Massage",
-        "description": "",
+        "name": {
+            "en_US": "",
+            "en_GB": "",
+            "es_ES": "",
+            "fr_FR": "",
+            "nl_NL": "",
+            "de_DE": "",
+            "ro_RO": "",
+            "it_IT": "",
+            "ru_RU": ""
+        },
+        "description": {
+            "en_US": "",
+            "en_GB": "",
+            "es_ES": "",
+            "fr_FR": "",
+            "nl_NL": "",
+            "de_DE": "",
+            "ro_RO": "",
+            "it_IT": "",
+            "ru_RU": ""
+        },
         "price": 0,
         "phone": "",
         "cover":0,
