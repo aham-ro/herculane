@@ -4,6 +4,7 @@
         "author": {
             "id": "1",
             "given_name": "John",
+            "family_name": "Doe",
             "avatar": "https://i.pravatar.cc/150?img=1",
             "countryCode": "GB"
         },
@@ -19,6 +20,7 @@
         "author": {
             "id": "1",
             "given_name": "John",
+            "family_name": "Doe",
             "avatar": "https://i.pravatar.cc/150?img=3",
             "countryCode": "RO"
         },
@@ -34,6 +36,7 @@
         "author": {
             "id": "1",
             "given_name": "John",
+            "family_name": "Doe",
             "avatar": "https://i.pravatar.cc/150?img=4",
             "countryCode": "US"
         },
