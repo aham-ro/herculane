@@ -2,26 +2,26 @@
     {
         "id": "1",
         "name": {
-            "en_US": "",
-            "en_GB": "",
-            "es_ES": "",
-            "fr_FR": "",
-            "nl_NL": "",
-            "de_DE": "",
-            "ro_RO": "",
-            "it_IT": "",
-            "ru_RU": ""
+            "en_US": "Menu Item 1",
+            "en_GB": "Menu Item 1",
+            "es_ES": "Menu Item 1",
+            "fr_FR": "Menu Item 1",
+            "nl_NL": "Menu Item 1",
+            "de_DE": "Menu Item 1",
+            "ro_RO": "Menu Item 1",
+            "it_IT": "Menu Item 1",
+            "ru_RU": "Menu Item 1"
         },
         "description": {
-            "en_US": "",
-            "en_GB": "",
-            "es_ES": "",
-            "fr_FR": "",
-            "nl_NL": "",
-            "de_DE": "",
-            "ro_RO": "",
-            "it_IT": "",
-            "ru_RU": ""
+            "en_US": "Menu Item 1",
+            "en_GB": "Menu Item 1",
+            "es_ES": "Menu Item 1",
+            "fr_FR": "Menu Item 1",
+            "nl_NL": "Menu Item 1",
+            "de_DE": "Menu Item 1",
+            "ro_RO": "Menu Item 1",
+            "it_IT": "Menu Item 1",
+            "ru_RU": "Menu Item 1"
         },
         "phone": "",
         "cover":0,
@@ -36,26 +36,26 @@
             {
                 "id": "1",
                 "name": {
-                    "en_US": "",
-                    "en_GB": "",
-                    "es_ES": "",
-                    "fr_FR": "",
-                    "nl_NL": "",
-                    "de_DE": "",
-                    "ro_RO": "",
-                    "it_IT": "",
-                    "ru_RU": ""
+                    "en_US": "Menu Item Product 1",
+                    "en_GB": "Menu Item Product 1",
+                    "es_ES": "Menu Item Product 1",
+                    "fr_FR": "Menu Item Product 1",
+                    "nl_NL": "Menu Item Product 1",
+                    "de_DE": "Menu Item Product 1",
+                    "ro_RO": "Menu Item Product 1",
+                    "it_IT": "Menu Item Product 1",
+                    "ru_RU": "Menu Item Product 1"
                 },
                 "description": {
-                    "en_US": "",
-                    "en_GB": "",
-                    "es_ES": "",
-                    "fr_FR": "",
-                    "nl_NL": "",
-                    "de_DE": "",
-                    "ro_RO": "",
-                    "it_IT": "",
-                    "ru_RU": ""
+                    "en_US": "Menu Item Product 1",
+                    "en_GB": "Menu Item Product 1",
+                    "es_ES": "Menu Item Product 1",
+                    "fr_FR": "Menu Item Product 1",
+                    "nl_NL": "Menu Item Product 1",
+                    "de_DE": "Menu Item Product 1",
+                    "ro_RO": "Menu Item Product 1",
+                    "it_IT": "Menu Item Product 1",
+                    "ru_RU": "Menu Item Product 1"
                 },
                 "price": 0
             }
