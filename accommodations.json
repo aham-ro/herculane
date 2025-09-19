@@ -31,7 +31,11 @@
         ],
         "cover":0,
         "pictures":[
-            "https://i.pravatar.cc/500?img=1"
+            "https://i.pravatar.cc/500?img=1",
+            "https://i.pravatar.cc/500?img=2",
+            "https://i.pravatar.cc/500?img=3",
+            "https://i.pravatar.cc/500?img=4",
+            "https://i.pravatar.cc/500?img=5"
         ],
         "rooms": [
             {
