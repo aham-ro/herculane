@@ -26,7 +26,12 @@
         "phone": "",
         "cover":0,
         "pictures":[
-            "https://github.com/aham-ro/herculane/blob/refs/heads/main/images/locations/1/a.png?raw=true"
+            "https://i.pravatar.cc/500?img=1",
+            "https://i.pravatar.cc/500?img=2",
+            "https://i.pravatar.cc/500?img=3",
+            "https://i.pravatar.cc/500?img=4",
+            "https://i.pravatar.cc/500?img=5",
+            "https://i.pravatar.cc/500?img=6"
         ],
         "coordinates":[
             41.403,
@@ -57,7 +62,16 @@
                     "it_IT": "Menu Item Product 1",
                     "ru_RU": "Menu Item Product 1"
                 },
-                "price": 0
+                "price": 0,
+                "cover":0,
+                "pictures":[
+                    "https://i.pravatar.cc/500?img=1",
+                    "https://i.pravatar.cc/500?img=2",
+                    "https://i.pravatar.cc/500?img=3",
+                    "https://i.pravatar.cc/500?img=4",
+                    "https://i.pravatar.cc/500?img=5",
+                    "https://i.pravatar.cc/500?img=6"
+                ]
             }
         ]
     }
